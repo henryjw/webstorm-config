@@ -1,0 +1,18 @@
+<application>
+  <component name="XDebuggerSettings">
+    <data-views />
+    <general>
+      <confirm-breakpoint-removal>true</confirm-breakpoint-removal>
+      <option name="hideDebuggerOnProcessTermination" value="true" />
+      <scroll-to-center>true</scroll-to-center>
+      <unmute-on-stop>true</unmute-on-stop>
+    </general>
+    <debuggers>
+      <debugger id="javascript">
+        <configuration watchReturnValues="true">
+          <custom-object-presentation />
+        </configuration>
+      </debugger>
+    </debuggers>
+  </component>
+</application>

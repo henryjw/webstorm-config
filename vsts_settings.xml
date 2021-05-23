@@ -1,0 +1,50 @@
+<application>
+  <component name="VSTSSettings">
+    <option name="serverContexts">
+      <array>
+        <ServerContextState>
+          <option name="type" value="VSO" />
+          <option name="uri" value="https://dev.azure.com/mytech-platform" />
+          <option name="serverUri" value="https://dev.azure.com/mytech-platform" />
+          <option name="userId" value="ee769d91-72da-4ffe-8fa3-13a76b8c24b2" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;d8f5f1cd-ce2a-49db-aa37-7d355b3f76e0&quot;,&quot;name&quot;:&quot;mytech-platform&quot;,&quot;url&quot;:&quot;https://dev.azure.com/mytech-platform/_apis/projectCollections/d8f5f1cd-ce2a-49db-aa37-7d355b3f76e0&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;The slight difference between those who always aim for the top and those who don’t, it’ll come to matter in a big way once you all emerge into society.\nAll Might&quot;,&quot;id&quot;:&quot;71769687-f012-40fd-b334-eea4cd9b81ca&quot;,&quot;name&quot;:&quot;All Might&quot;,&quot;revision&quot;:901,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://dev.azure.com/mytech-platform/_apis/projects/71769687-f012-40fd-b334-eea4cd9b81ca&quot;}" />
+        </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="VSO" />
+          <option name="uri" value="https://mytech-platform@dev.azure.com/mytech-platform/All%20Might/_git/asset-api" />
+          <option name="serverUri" value="https://dev.azure.com/mytech-platform" />
+          <option name="userId" value="ee769d91-72da-4ffe-8fa3-13a76b8c24b2" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;d8f5f1cd-ce2a-49db-aa37-7d355b3f76e0&quot;,&quot;name&quot;:&quot;mytech-platform&quot;,&quot;url&quot;:&quot;https://dev.azure.com/mytech-platform/_apis/projectCollections/d8f5f1cd-ce2a-49db-aa37-7d355b3f76e0&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;The slight difference between those who always aim for the top and those who don’t, it’ll come to matter in a big way once you all emerge into society.\nAll Might&quot;,&quot;id&quot;:&quot;71769687-f012-40fd-b334-eea4cd9b81ca&quot;,&quot;name&quot;:&quot;All Might&quot;,&quot;revision&quot;:901,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://dev.azure.com/mytech-platform/_apis/projects/71769687-f012-40fd-b334-eea4cd9b81ca&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:&quot;refs/heads/master&quot;,&quot;id&quot;:&quot;a802d393-c3cf-42ad-b72b-18dba12e7a19&quot;,&quot;name&quot;:&quot;asset-api&quot;,&quot;remoteUrl&quot;:&quot;https://mytech-platform@dev.azure.com/mytech-platform/All%20Might/_git/asset-api&quot;,&quot;url&quot;:&quot;https://dev.azure.com/mytech-platform/71769687-f012-40fd-b334-eea4cd9b81ca/_apis/git/repositories/a802d393-c3cf-42ad-b72b-18dba12e7a19&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;The slight difference between those who always aim for the top and those who don’t, it’ll come to matter in a big way once you all emerge into society.\nAll Might&quot;,&quot;id&quot;:&quot;71769687-f012-40fd-b334-eea4cd9b81ca&quot;,&quot;name&quot;:&quot;All Might&quot;,&quot;revision&quot;:901,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://dev.azure.com/mytech-platform/_apis/projects/71769687-f012-40fd-b334-eea4cd9b81ca&quot;},&quot;_links&quot;:null}" />
+        </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="VSO" />
+          <option name="uri" value="https://mytech-platform@dev.azure.com/mytech-platform/All%20Might/_git/json-to-simple-rego" />
+          <option name="serverUri" value="https://dev.azure.com/mytech-platform" />
+          <option name="userId" value="7f216af7-b71b-6364-aa25-a5ded729e0f7" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;d8f5f1cd-ce2a-49db-aa37-7d355b3f76e0&quot;,&quot;name&quot;:&quot;mytech-platform&quot;,&quot;url&quot;:&quot;https://dev.azure.com/mytech-platform/_apis/projectCollections/d8f5f1cd-ce2a-49db-aa37-7d355b3f76e0&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;The slight difference between those who always aim for the top and those who don’t, it’ll come to matter in a big way once you all emerge into society.\nAll Might&quot;,&quot;id&quot;:&quot;71769687-f012-40fd-b334-eea4cd9b81ca&quot;,&quot;name&quot;:&quot;All Might&quot;,&quot;revision&quot;:901,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://dev.azure.com/mytech-platform/_apis/projects/71769687-f012-40fd-b334-eea4cd9b81ca&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;5c210f7e-032f-4a49-90f4-7d45233b25f1&quot;,&quot;name&quot;:&quot;json-to-simple-rego&quot;,&quot;remoteUrl&quot;:&quot;https://mytech-platform@dev.azure.com/mytech-platform/All%20Might/_git/json-to-simple-rego&quot;,&quot;url&quot;:&quot;https://dev.azure.com/mytech-platform/_apis/git/repositories/5c210f7e-032f-4a49-90f4-7d45233b25f1&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;The slight difference between those who always aim for the top and those who don’t, it’ll come to matter in a big way once you all emerge into society.\nAll Might&quot;,&quot;id&quot;:&quot;71769687-f012-40fd-b334-eea4cd9b81ca&quot;,&quot;name&quot;:&quot;All Might&quot;,&quot;revision&quot;:901,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://dev.azure.com/mytech-platform/_apis/projects/71769687-f012-40fd-b334-eea4cd9b81ca&quot;},&quot;_links&quot;:null}" />
+        </ServerContextState>
+      </array>
+    </option>
+    <option name="properties">
+      <array>
+        <PropertyState>
+          <option name="name" value="tfHome" />
+          <option name="value" value="" />
+        </PropertyState>
+        <PropertyState>
+          <option name="name" value="repoRoot" />
+          <option name="value" value="C:\Users\212768997\WebstormProjects" />
+        </PropertyState>
+        <PropertyState>
+          <option name="name" value="lastContextKey" />
+          <option name="value" value="//mytech-platform@dev.azure.com/mytech-platform/all might/_git/json-to-simple-rego" />
+        </PropertyState>
+      </array>
+    </option>
+  </component>
+</application>

@@ -72,6 +72,16 @@
                       <FeaturePluginData displayName="Nodeunit" pluginName="Node.js" pluginId="NodeJS" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="OPA_RUN_CONFIGURATION">
+                    <value>
+                      <FeaturePluginData displayName="Opa eval" pluginName="Open Policy Agent" pluginId="org.openpolicyagent.opa-idea-plugin" />
+                    </value>
+                  </entry>
+                  <entry key="OPA_TEST_RUN_CONFIGURATION">
+                    <value>
+                      <FeaturePluginData displayName="Opa test" pluginName="Open Policy Agent" pluginId="org.openpolicyagent.opa-idea-plugin" />
+                    </value>
+                  </entry>
                   <entry key="PhoneGap">
                     <value>
                       <FeaturePluginData displayName="Cordova" pluginName="Cordova" pluginId="com.github.masahirosuzuka.PhoneGapIntelliJPlugin" bundled="true" />
@@ -85,6 +95,11 @@
                   <entry key="ShConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Shell Script" pluginName="Shell Script" pluginId="com.jetbrains.sh" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="SwaggerCodegen">
+                    <value>
+                      <FeaturePluginData displayName="Swagger Codegen" pluginName="OpenAPI Specifications" pluginId="com.intellij.swagger" />
                     </value>
                   </entry>
                   <entry key="XSLT">

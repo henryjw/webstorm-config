@@ -1,5 +1,6 @@
 <application>
   <component name="TerminalOptionsProvider">
+    <option name="myShellPath" value="\\wsl$\Ubuntu-20.04\usr\bin\fish" />
     <option name="mySoundBell" value="false" />
     <option name="myTabName" value="Terminal" />
   </component>

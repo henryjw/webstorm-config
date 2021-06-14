@@ -53,4 +53,8 @@
     </settingsMapElement>
   </component>
   <component name="LiveEditOptions" chromeAutoDelay="2000" chromeUpdateJSOnChanges="true" nodeUpdateOnChanges="true" restartIfHotSwapFailed="true" updateFilesToCompile="true" />
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+  </component>
 </application>
